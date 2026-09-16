@@ -1,0 +1,10 @@
+{
+  "name": "aws-ecs-cicd-demo",
+  "version": "1.0.0",
+  "description": "AWS ECS CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}
