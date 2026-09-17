@@ -1,4 +1,4 @@
-aws_region      = "ap-south-1"
+aws_region        = "ap-south-1"
 availability_zone = "ap-south-1a"
 
 project_name = "aws-ecs-cicd"
